@@ -1,7 +1,7 @@
 name: rats
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.7214
+layout_spectrum: 0.00091
+typography_spectrum: 0.62204
 cta:
   domain: null
   bucket: null
