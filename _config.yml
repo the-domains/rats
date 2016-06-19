@@ -1,28 +1,18 @@
-name: rats
-favicon: null
-layout_spectrum: 0.00091
-typography_spectrum: 0.62204
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#d1d1cf'
-    - '#b1b3b2'
-    - '#211d1e'
-    - '#554c4d'
-    - '#75746f'
+    - '#FFFFFF'
+    - '#B2B2B2'
+    - '#1F2326'
+    - '#E0E2EE'
+    - '#404558'
   brandStrength: 0.25
   lightness: 0.375
+  rhythmicContrast: 0.694257
   saturation: 0.3125
-  rhythmicContrast: 0.5
+cta: {}
+layout_spectrum: 0.173142
+name: rats
+opengraph: {}
 purpose: []
+typography_spectrum: 0.62204
