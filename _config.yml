@@ -1,8 +1,8 @@
 name: rats
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/06b2ca91-7194-42dd-b1d4-ec96557cef85.jpg
-layout_spectrum: 0.173142
-typography_spectrum: 0.62204
+layout_spectrum: 0.35595432249829173
+typography_spectrum: 0.5159284682013094
 cta: {}
 analytics: {}
 opengraph:
@@ -27,3 +27,5 @@ author:
   email: alfiotomaino@gmail.com
 content_rating:
   adult: false
+coverPrefs:
+  filter: false
