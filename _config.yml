@@ -1,7 +1,7 @@
 name: 'Richard Tomaino Sculpture '
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/06b2ca91-7194-42dd-b1d4-ec96557cef85.jpg
-layout_spectrum: 0.35595432249829173
+layout_spectrum: 0.5304184819106013
 typography_spectrum: 0.5159284682013094
 cta: {}
 analytics: {}
@@ -15,10 +15,10 @@ color:
     - '#1F2326'
     - '#E0E2EE'
     - '#404558'
-  brandStrength: 0.25
-  lightness: 0.375
-  saturation: 0.3125
-  rhythmicContrast: 0.694257
+  brandStrength: 0.3131869905628264
+  lightness: 0.9011426491197199
+  saturation: 0.609807415632531
+  rhythmicContrast: 0.9824206712655723
 purpose: []
 title: ''
 author:
@@ -27,3 +27,5 @@ author:
   email: alfiotomaino@gmail.com
 content_rating:
   adult: false
+coverPrefs:
+  filter: false
