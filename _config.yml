@@ -1,16 +1,16 @@
-layout_spectrum: 0.09255140833556652
+layout_spectrum: 0.11834677751176059
 typography_spectrum: 0.5159284682013094
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#B2B2B2'
-    - '#1F2326'
-    - '#E0E2EE'
-    - '#404558'
-  brandStrength: 0.7932111704722047
-  lightness: 0.3787638316862285
-  saturation: 0.14674919447861612
-  rhythmicContrast: 0.8944566412828863
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.7940865606069565
+  lightness: 0.34258296876214445
+  saturation: 0.847036951687187
+  rhythmicContrast: 0.056672695791348815
 coverPrefs:
   filter: false
 name: 'Richard Tomaino Sculpture '
