@@ -1,5 +1,6 @@
-layout_spectrum: 0.20249786647036672
 typography_spectrum: 0.5159284682013094
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FCFFF5'
@@ -11,23 +12,23 @@ color:
   lightness: 0.9276446094736457
   saturation: 0.5187114828731865
   rhythmicContrast: 0.5473931340966374
-coverPrefs:
-  filter: false
-name: 'Richard Tomaino Sculpture '
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6db5bac-2147-4ccd-93e0-773960c1ec09.jpg
-cta: {}
-analytics: {}
 opengraph:
   type: ''
   appId: ''
-purpose: []
-title: >-
-  A Melbourne based sculptor, exploring silicon, stoneware and porcelain
-  mediums. For private enquiries please contact alfiotomaino@gmail.com 
+layout_spectrum: 0.20249786647036672
+analytics: {}
 author:
   name: 'Richard Tomaino '
   url: ''
   email: alfiotomaino@gmail.com
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6db5bac-2147-4ccd-93e0-773960c1ec09.jpg
+name: 'Richard Tomaino Sculpture '
+cta: {}
+favicon: null
+title: >-
+  A Melbourne based sculptor, exploring silicon, stoneware and porcelain
+  mediums. For private enquiries please contact alfiotomaino@gmail.com 
+coverPrefs:
+  filter: false
+purpose: []
