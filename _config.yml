@@ -1,5 +1,13 @@
+name: 'Richard Tomaino Sculpture '
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6db5bac-2147-4ccd-93e0-773960c1ec09.jpg
 layout_spectrum: 0.11834677751176059
 typography_spectrum: 0.5159284682013094
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#FCFFF5'
@@ -11,16 +19,6 @@ color:
   lightness: 0.34258296876214445
   saturation: 0.847036951687187
   rhythmicContrast: 0.056672695791348815
-coverPrefs:
-  filter: false
-name: 'Richard Tomaino Sculpture '
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6db5bac-2147-4ccd-93e0-773960c1ec09.jpg
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
 purpose: []
 title: >-
   A Melbourne based sculptor, exploring silicon, stoneware and porcelain
