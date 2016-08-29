@@ -1,6 +1,5 @@
+layout_spectrum: 0.30925840768031776
 typography_spectrum: 0.5159284682013094
-content_rating:
-  adult: false
 color:
   brandColors:
     - '#FCFFF5'
@@ -12,10 +11,13 @@ color:
   lightness: 0.9276446094736457
   saturation: 0.5187114828731865
   rhythmicContrast: 0.5473931340966374
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.20249786647036672
 analytics: {}
 author:
   name: 'Richard Tomaino '
@@ -27,7 +29,5 @@ name: 'Richard Tomaino Sculpture '
 cta: {}
 favicon: null
 title: RTS
-coverPrefs:
-  filter: false
 description: A Melbourne based sculptor...
 purpose: []
